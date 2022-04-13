@@ -1,9 +1,7 @@
 import streamlit as st
-import pandas as pd
 import numpy as np
 import nltk
-import tensorflow as tf
-from tensorflow.keras.models import load_model, model_from_json
+from keras.models import load_model, model_from_json
 nltk.download('punkt')
 import json
 
