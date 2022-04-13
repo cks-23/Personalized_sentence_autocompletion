@@ -6,12 +6,12 @@ nltk.download('punkt')
 import json
 
 # Paths for models (user 1)
-path_enc_model_u1 = "Model/encoder_model.json"
-path_dec_model_u1 = "Model/decoder_model.json"
+path_enc_model_u1 = "Data/encoder_model.json"
+path_dec_model_u1 = "Data/decoder_model.json"
 
 # Paths for weights (user 1)
-path_enc_weights_u1 = "Model/encoder_weights.h5"
-path_dec_weights_u1 = "Model/decoder_weights.h5"
+path_enc_weights_u1 = "Data/encoder_weights.h5"
+path_dec_weights_u1 = "Data/decoder_weights.h5"
 
 # Paths for pickle files (user 1)
 ipl_u1 = "Data/input_lang.json"
@@ -19,12 +19,12 @@ opl_u1 = "Data/target_lang.json"
 opl1_u1 = "Data/target_lang1.json"
 
 # Paths for models (user 2)
-path_enc_model_u2 = "Model/encoder_model.json"
-path_dec_model_u2 = "Model/decoder_model.json"
+path_enc_model_u2 = "Data/encoder_model.json"
+path_dec_model_u2 = "Data/decoder_model.json"
 
 # Paths for weights (user 2)
-path_enc_weights_u2 = "Model/encoder_weights.h5"
-path_dec_weights_u2 = "Model/decoder_weights.h5"
+path_enc_weights_u2 = "Data/encoder_weights.h5"
+path_dec_weights_u2 = "Data/decoder_weights.h5"
 
 # Paths for pickle files (user 2)
 ipl_u2 = "Data/input_lang.json"
