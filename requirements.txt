@@ -1,0 +1,6 @@
+streamlit==1.8.1
+pandas==1.2.4
+numpy==1.20.1
+nltk==3.6.1
+tensorflow==2.8.0
+json==2.0.9
